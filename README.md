@@ -1,7 +1,7 @@
 - 👋🏽 Hi, I’m Douglas. 🐶👓
 - 👀 I’m interested in music, self-development, dogs, science documentaries, the Discovery Channel 😄, quality time with family and friends ❤️, and of course video games (FIFA over PES 😌).
 - 💼 My skills include critical thinking, web development (MERN Stack), public speaking, and a little sense of humour (if only dogs can laugh).
-- 🌱 I’m currently learning React JS. Full-stack Web Development is the goal. ⚽🥅
+- 🌱 I’m a student at AltSchool School of Engineering (Tinyuka Session). Full-stack Web Development is my goal. ⚽🥅
 - 💞️ I’m looking to collaborate on innovative ideas and technologies.
 - 📫 Reach me on Linkedin - (https://www.linkedin.com/in/lazydoug/) || Instagram - (https://www.instagram.com/lazy.doug/) || Twitter - (https://www.twitter.com/thelazydoug)
 - 📢 “…if you want to go fast, go alone. If you want to go far, go together.” Let’s go together!
