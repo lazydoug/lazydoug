@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=lazydoug)
 - 👋🏽 Hi, I’m Douglas. 🐶👓
 - 👀 I’m interested in music, self-development, dogs, science documentaries, the Discovery Channel 😄, quality time with family and friends ❤️, and of course video games (FIFA over PES 😌).
 - 💼 My skills include critical thinking, web development (MERN Stack), public speaking, and a little sense of humour (if only dogs can laugh).
